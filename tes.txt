@@ -1,7 +1,1 @@
-.tambahan-deskripsi {
-  display: block;
-  margin-top: 15px;
-}
-.tambahan-deskripsi ~ .tambahan-deskripsi {
-  display: none;
-}
+ajldkjlajsdflkajfsl;kjalksdjfklajsdfkljaf
